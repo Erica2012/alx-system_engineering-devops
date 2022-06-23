@@ -1,2 +1,2 @@
 #!/bin/bash
-mv src/*b[A-Z].*?/b /tmp/u
+mv src/*[A-Za-z]/ /tmp/u
